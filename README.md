@@ -1,11 +1,23 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
+## Student Details
+
+- **Full Name:** `Ansh Patel`
+- **CCID:** `anshpare`
+
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.w3schools.com
+
+https://developer.android.com
+
+https://www.geeksforgeeks.org
+
+https://stackoverflow.com
+
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `N/A`        |   `N/A`   |
+|     `NA`     |    `NA`   |
